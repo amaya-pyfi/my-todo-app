@@ -1,0 +1,6 @@
+drink
+team meeting
+master python
+make bed
+make tea
+make coffee
